@@ -1,6 +1,6 @@
 # Translator Webapp
 
-## A simple translator to translate date in 3 primary languages (Hindi,English,Telugu)
+## A simple translator to translate data in 3 primary languages (Hindi,English,Telugu)
 ### Step 1> Create a Virtual Environment 
 ####         py -3 -m venv venv
 ####         venv\scripts\activate
